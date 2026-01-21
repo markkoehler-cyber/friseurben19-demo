@@ -81,7 +81,7 @@ export const Footer = () => {
             </h4>
             <ul className="space-y-3 text-sm">
               <li className="flex justify-between text-muted-foreground">
-                <span>Montag - Samstag/span>
+                <span>Montag - Samstag</span>
                 <span className="text-foreground">09:00 - 19:00</span>
               </li>
               <li className="flex justify-between text-muted-foreground">
