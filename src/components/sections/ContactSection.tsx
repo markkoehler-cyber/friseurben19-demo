@@ -51,7 +51,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Adresse</h4>
                   <p className="text-muted-foreground">
-                    Große Mohrengasse 38, 1020 Wien
+                    Rotensterngasse 37, 1020 Wien
                   </p>
                 </div>
               </div>
@@ -63,10 +63,10 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Telefon</h4>
                   <a 
-                    href="tel:+4930123456789" 
+                    href="tel:+06765617218" 
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +43664 5477777
+                    +06765617218
                   </a>
                 </div>
               </div>
@@ -78,7 +78,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Öffnungszeiten</h4>
                   <p className="text-muted-foreground">
-                    Mo-Fr: 09:00 - 19:00 | Sa: 09:00 - 18:00
+                    Mo-Fr: 09:00 - 19:00 | So: Geschlossen
                   </p>
                 </div>
               </div>
@@ -100,15 +100,15 @@ export const ContactSection = () => {
             <div className="relative">
               <div className="aspect-square lg:aspect-[4/5] rounded-sm overflow-hidden border border-border">
   <iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.4223682725105!2d16.384418131529028!3d48.217741038917524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07f2f17c1ad7%3A0x1264bd7ffac3ba32!2sFB%20Barbershop!5e0!3m2!1sen!2sat!4v1768417153210!5m2!1sen!2sat"
-    width="100%"
-    height="100%"
-    style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
-    allowFullScreen
-    loading="lazy"
-    referrerPolicy="no-referrer-when-downgrade"
-    title="Standort FB Barbershop"
-  />
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2192.873193367368!2d16.384067281539412!3d48.21668308581861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07120485d1bf%3A0xdd79ba6e1647c1c2!2sFriseur%20Ben%2019!5e0!3m2!1sde!2sat!4v1769022478049!5m2!1sde!2sat"
+  width="100%"
+  height="100%"
+  style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+  title="Standort Friseur Ben 19 Wien"
+/>
 </div>
 
               {/* Overlay Card */}
